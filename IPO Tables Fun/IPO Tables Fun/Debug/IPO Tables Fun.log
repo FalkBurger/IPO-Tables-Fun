@@ -1,0 +1,6 @@
+﻿  IPO Tables Fun.cpp
+C:\Users\User\source\repos\IPO Tables Fun\IPO Tables Fun\IPO Tables Fun.cpp(63,56): warning C4101: 'e': unreferenced local variable
+C:\Users\User\source\repos\IPO Tables Fun\IPO Tables Fun\IPO Tables Fun.cpp(101,56): warning C4101: 'e': unreferenced local variable
+C:\Users\User\source\repos\IPO Tables Fun\IPO Tables Fun\IPO Tables Fun.cpp(132,52): warning C4101: 'e': unreferenced local variable
+C:\Users\User\source\repos\IPO Tables Fun\IPO Tables Fun\IPO Tables Fun.cpp(146,40): warning C4101: 'e': unreferenced local variable
+  IPO Tables Fun.vcxproj -> C:\Users\User\source\repos\IPO Tables Fun\Debug\IPO Tables Fun.exe

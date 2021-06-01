@@ -1,0 +1,11 @@
+﻿  IPO Tables Fun.cpp
+C:\Users\User\source\repos\IPO Tables Fun\IPO Tables Fun\IPO Tables Fun.cpp(80,56): warning C4101: 'e': unreferenced local variable
+C:\Users\User\source\repos\IPO Tables Fun\IPO Tables Fun\IPO Tables Fun.cpp(126,56): warning C4101: 'e': unreferenced local variable
+C:\Users\User\source\repos\IPO Tables Fun\IPO Tables Fun\IPO Tables Fun.cpp(162,52): warning C4101: 'e': unreferenced local variable
+C:\Users\User\source\repos\IPO Tables Fun\IPO Tables Fun\IPO Tables Fun.cpp(178,40): warning C4101: 'e': unreferenced local variable
+  Generating code
+  1 of 122 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  IPO Tables Fun.vcxproj -> C:\Users\User\source\repos\IPO Tables Fun\Release\IPO Tables Fun.exe
